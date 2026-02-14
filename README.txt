@@ -1,3 +1,5 @@
+Roblox store: https://create.roblox.com/store/asset/140163641734207/UChatReDist-UChat-Latest-Build
+
 return {} -- dont break if u require me
 
 --[[
